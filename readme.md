@@ -1,5 +1,6 @@
-# 'stable behaviour in NVC vs ghdl
+# Behaviour of attribute *'stable* in NVC vs ghdl
 
+## GHDL
 ```bash
 $ bash run_ghdl.sh 
 GHDL 5.0.0-dev (4.1.0.r288.g10fbb188b) [Dunoon edition]
@@ -15,9 +16,10 @@ stable_test.vhd:29:7:@80ns:(assertion error): Assert from process!
 stable_test.vhd:29:7:@90ns:(assertion error): Assert from process!
 stable_test.vhd:29:7:@100ns:(assertion error): Assert from process!
 ```
+
 ![GHDL waveform](ghdl.png)
 
-
+## NVC
 
 ```bash
 $ bash run_nvc.sh 
