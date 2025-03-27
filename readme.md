@@ -22,9 +22,9 @@ stable_test.vhd:29:7:@100ns:(assertion error): Assert from process!
 ## NVC
 
 ```bash
-$ bash run_nvc.sh 
-nvc 1.15-devel (1.14.0.r206.g5cca94bb) (Using LLVM 14.0.0)
-Copyright (C) 2011-2024  Nick Gasson
+
+nvc 1.15.2 (1.15.2.r0.g2fe12d4f) (Using LLVM 14.0.0)
+Copyright (C) 2011-2025  Nick Gasson
 This program comes with ABSOLUTELY NO WARRANTY. This is free software, and
 you are welcome to redistribute it under certain conditions. See the GNU
 General Public Licence for details.
