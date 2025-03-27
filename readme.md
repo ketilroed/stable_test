@@ -1,4 +1,4 @@
-# Behaviour of attribute *'stable* in NVC vs ghdl
+# Behaviour of attribute *'stable* in GHDL, NVC, Modelsim
 
 ## GHDL
 ```bash
